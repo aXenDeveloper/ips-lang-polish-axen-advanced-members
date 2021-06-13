@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language name="Polski" rtl="0">
+ <app key="axenmembers" version="10000">
+  <word key="__app_axenmembers" js="0">(aXen) Advanced Members</word>
+  <word key="menutab__axenmembers_icon" js="0">user-circle-o</word>
+  <word key="menutab__axenmembers" js="0">Advanced Members</word>
+  <word key="menu__axenmembers_grouplegend" js="0">Legenda grup</word>
+  <word key="menu__axenmembers_grouplegend_groups" js="0">Grupy</word>
+  <word key="menu__axenmembers_grouplegend_settings" js="0">Ustawienia</word>
+  <word key="aXenMembers_groupLegend_widget_whosOnline" js="0">Pokaż w widżecie whosOnline?</word>
+  <word key="aXenMembers_groupLegend_widget_activeUsers" js="0">Pokazać w widżecie activeUsers?</word>
+  <word key="menu__axenmembers_grouplegend_groups_add_child" js="0">Dodaj subgrupę</word>
+  <word key="axenmembers_link" js="0">Włączyć przekierowanie do wyszukiwarki?</word>
+  <word key="axenmembers_link_desc" js="0">Po kliknięciu na grupę przechodzi do wyszukiwarki grup.</word>
+  <word key="axenmembers_group_id" js="0">Grupa</word>
+  <word key="axenmembers_groups_search" js="0">Grupy do wyświetlenia w wyszukiwarce</word>
+  <word key="axenmembers_groups_search_desc" js="0">Pozostaw puste, jeśli chcesz wyświetlić tylko jedną grupę główną.</word>
+  <word key="aXenMembers_header_groupLegend_header_settings" js="0">Ustawienia</word>
+  <word key="aXenMembers_header_groupLegend_header_display" js="0">Widoczność</word>
+  <word key="axenmembers_group_custom" js="0">Grupa niestandardowa</word>
+  <word key="axenmembers_g_name" js="0">Niestandardowa nazwa grupy</word>
+  <word key="axenmembers_g" js="0">Pokazać nazwę własnej grupy?</word>
+  <word key="axenmembers_g_name_none" js="0">Ta grupa została usunięta!</word>
+  <word key="axenmembers_g_name_none_desc" js="0">Usuń to!</word>
+  <word key="block_aXenWhoWasOnline" js="0">Kto był online</word>
+  <word key="menu__axenmembers_whowasonline" js="0">Kto był online</word>
+  <word key="menu__axenmembers_whowasonline_settings" js="0">Ustawienia</word>
+  <word key="aXenMembers_whowasonline_widget_hours" js="0">Pokaż użytkowników w ciągu ostatnich (godzin)</word>
+  <word key="aXenMembers_whowasonline_widget_showUsers" js="0">Pokazać użytkowników w widżecie?</word>
+  <word key="aXenMembers_whowasonline_widget_orderBy" js="0">Sortowanie</word>
+  <word key="aXenMembers_whowasonline_widget_last_activity" js="0">Ostatnia aktywność</word>
+  <word key="aXenMembers_whowasonline_widget_orderBy_group_id" js="0">ID grupy</word>
+  <word key="aXenMembers_whowasonline_widget_orderBy_name" js="0">Nazwa użytkownika</word>
+  <word key="aXenMembers_whowasonline_widget_sort" js="0">Sortowanie</word>
+  <word key="aXenMembers_whowasonline_widget_sort_DESC" js="0">Malejąco (DESC)</word>
+  <word key="aXenMembers_whowasonline_widget_sort_ASC" js="0">Rosnąco (ASC)</word>
+  <word key="aXenMembers_whowasonline_widget_max" js="0">Wyświetlana maksymalna liczba użytkowników</word>
+  <word key="aXenMembers_whowasonline_widget_max_desc" js="0">Liczba 0 oznacza nieskończoną liczbę</word>
+  <word key="aXenMembers_whowasonline_widget_most_members" js="0">Pokazać najwięcej użytkowników?</word>
+  <word key="aXenMembers_whowasonline_widget_countMembers" js="0">{#[1: użytkownik był][?: użytkowników było]} Online w ciągu ostatnich %s godzin</word>
+  <word key="aXenMembers_whowasonline_widget_countMembersAnon" js="0">W tym %s anonimowych</word>
+  <word key="aXenMembers_whowasonline_widget_mostMembers" js="0"><![CDATA[Najwięcej użytkowników było <span class="ipsType_bold">%s</span>]]></word>
+  <word key="menu__axenmembers_contactwithadministration" js="0">Kontakt z administracją</word>
+  <word key="menu__axenmembers_contactwithadministration_contactList" js="0">Użytkownicy</word>
+  <word key="axenmembers_header_contact_member_settings" js="0">Ustawienia użytkowników</word>
+  <word key="axenmembers_member_id" js="0">Użytkownik</word>
+  <word key="axenmembers_header_contact_member_links" js="0">Linki</word>
+  <word key="axenmembers_link_discord" js="0">Discord</word>
+  <word key="axenmembers_link_discord_desc" js="0"><![CDATA[Aby poprawnie wyświetlić tę ikonę, musisz mieć ikony Font Awesome 5.<br>Jeśli nie masz Font Awesome 5, pobierz tę wtyczkę: <a href='https://invisioncommunity.com/files/file/9439-axen-font-awesome-5-in-ips/'>(aXen) Font Awesome 5 in IPS</a>]]></word>
+  <word key="axenmembers_link_steam" js="0">Steam</word>
+  <word key="axenmembers_category" js="0">Kategoria</word>
+  <word key="axenmembers_category_admin" js="0">Administratorzy</word>
+  <word key="axenmembers_category_mod" js="0">Moderatorzy</word>
+  <word key="axenmembers_header_contact_member_responsibilities" js="0">Obowiązki</word>
+  <word key="axenmembers_responsibilities" js="0">Pokazać obowiązki?</word>
+  <word key="axenmembers_responsibilities_text" js="0">[Text] Obowiązki</word>
+  <word key="menu__axenmembers_contactwithadministration_settings" js="0">Ustawienia</word>
+  <word key="aXenMembers_contact_photo" js="0">Pokazać zdjęcie profilowe?</word>
+  <word key="block_aXenContact" js="0">Kontakt</word>
+  <word key="aXenMembers_contact_group" js="0">Pokazać grupę użytkowników?</word>
+  <word key="axenmembers_widget_contact_staff" js="0">Pokaż katalog personelu</word>
+  <word key="axenmembers_widget_contact_category_admin" js="0">Administratorzy</word>
+  <word key="axenmembers_widget_contact_category_mod" js="0">Moderatorzy</word>
+  <word key="aXenMembers_contact_staff" js="0">Pokazać link do personelu?</word>
+  <word key="aXenMembers_widget_contact_links_message" js="0">Wyślij prywatną wiadomość</word>
+  <word key="aXenMembers_widget_contact_links_discord" js="0">Kliknij, aby skopiować ID discorda</word>
+  <word key="aXenMembers_widget_contact_links_steam" js="0">Steam</word>
+  <word key="aXenMembers_widget_contact_links_linkedin" js="0">Linkedin</word>
+  <word key="aXenMembers_widget_contact_links_facebook" js="0">Facebook</word>
+  <word key="aXenMembers_widget_contact_links_responsibilities" js="0">Obowiązki</word>
+  <word key="axenmembers_link_message" js="0">Pokazać przycisk do wysyłania prywatnych wiadomości?</word>
+  <word key="axenmembers_link_facebook" js="0">Facebook</word>
+  <word key="axenmembers_link_linkedin" js="0">Linkedin</word>
+  <word key="aXenMembers_header_contact_buttons" js="0">Style przycisków</word>
+  <word key="aXenMembers_contact_buttons_message" js="0">Wiadomość</word>
+  <word key="aXenMembers_contact_buttons_discord" js="0">Discord</word>
+  <word key="aXenMembers_contact_buttons_steam" js="0">Steam</word>
+  <word key="aXenMembers_contact_buttons_facebook" js="0">Facebook</word>
+  <word key="aXenMembers_contact_buttons_linkedin" js="0">Linkedin</word>
+  <word key="menu__axenmembers_highlightgroups" js="0">Wyróżnione grupy</word>
+  <word key="menu__axenmembers_highlightgroups_groups" js="0">Grupy</word>
+  <word key="axenmembers_comment" js="0">Własne kolory na wyróżnione odpowiedzi</word>
+  <word key="axenmembers_comment_desc" js="0"><![CDATA[Grupa musi mieć włączoną opcję "Wyróżnij odpowiedzi" Przejdź do <a href="{internal.admin.app=core&module=members&controller=groups}">Ustawienia grupy</a>.]]></word>
+  <word key="axenmembers_comment_color" js="0">Kolor tła</word>
+  <word key="axenmembers_comment_color_text" js="0">Kolor tekstu</word>
+  <word key="aXenMembers_header_highlight_comment" js="0">Wyróżnione odpowiedzi</word>
+  <word key="aXenMembers_header_highlight_profile" js="0">Wyróżniony blok w profilu</word>
+  <word key="axenmembers_profile_block" js="0">Pokazać wyróżniony blok w profilu?</word>
+  <word key="axenmembers_profile_block_color" js="0">Kolor tła</word>
+  <word key="axenmembers_profile_block_color_text" js="0">Kolor tekstu</word>
+  <word key="axenmembers_profile_block_title" js="0">Tytuł</word>
+  <word key="axenmembers_profile_block_text" js="0">Text</word>
+  <word key="menu__axenmembers_birthday" js="0">Urodziny</word>
+  <word key="menu__axenmembers_birthday_settings" js="0">Ustawienia</word>
+  <word key="aXenMembers_header_birthday_profile" js="0">Profil</word>
+  <word key="aXenMembers_birthday_profile_block" js="0">Pokazać blok urodzinowy?</word>
+  <word key="aXenMembers_birthday" js="0">Wszystkiego najlepszego z okazji urodzin!</word>
+  <word key="aXenMembers_birthday_text" js="0">Ten użytkownik świętuje dziś swój wyjątkowy dzień!</word>
+  <word key="aXenMembers_birthday_icon_profile" js="0">Pokazać ikonę w profilu?</word>
+  <word key="aXenMembers_birthday_icon_profile_desc" js="0">Obok wyświetlanej nazwy pojawi się ikona.</word>
+  <word key="r__contactList" js="0">Lista</word>
+  <word key="r__contactList_manage" js="0">Może widzieć listę</word>
+  <word key="aXenMembers_header_birthday_icon" js="0">Ikona urodzin</word>
+  <word key="aXenMembers_birthday_icon_hovercard" js="0">Pokazać ikonę w hovercard?</word>
+  <word key="aXenMembers_birthday_icon_hovercard_desc" js="0">Obok wyświetlanej nazwy pojawi się ikona.</word>
+  <word key="aXenMembers_widget_contact_links_discord_message" js="1">ID Discorda został skopiowany do schowka:</word>
+ </app>
+</language>
