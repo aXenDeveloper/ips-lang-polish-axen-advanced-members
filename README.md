@@ -1,4 +1,4 @@
-# (aXen) Advanced Server List - Polish translation
+# (aXen) Advanced Members - Polish translation
 
 ## 🏷️ Requirements
 
