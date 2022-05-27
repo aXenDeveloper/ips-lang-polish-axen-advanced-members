@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="axenmembers" version="10000">
+ <app key="axenmembers" version="10007">
   <word key="__app_axenmembers" js="0">(aXen) Advanced Members</word>
   <word key="menutab__axenmembers_icon" js="0">user-circle-o</word>
   <word key="menutab__axenmembers" js="0">Advanced Members</word>
   <word key="menu__axenmembers_grouplegend" js="0">Legenda grup</word>
   <word key="menu__axenmembers_grouplegend_groups" js="0">Grupy</word>
   <word key="menu__axenmembers_grouplegend_settings" js="0">Ustawienia</word>
-  <word key="aXenMembers_groupLegend_widget_whosOnline" js="0">Pokaż w widżecie whosOnline?</word>
+  <word key="aXenMembers_groupLegend_widget_whosOnline" js="0">Pokazać w widżecie whosOnline?</word>
   <word key="aXenMembers_groupLegend_widget_activeUsers" js="0">Pokazać w widżecie activeUsers?</word>
   <word key="menu__axenmembers_grouplegend_groups_add_child" js="0">Dodaj subgrupę</word>
   <word key="axenmembers_link" js="0">Włączyć przekierowanie do wyszukiwarki?</word>
@@ -63,7 +63,6 @@
   <word key="axenmembers_widget_contact_category_mod" js="0">Moderatorzy</word>
   <word key="aXenMembers_contact_staff" js="0">Pokazać link do personelu?</word>
   <word key="aXenMembers_widget_contact_links_message" js="0">Wyślij prywatną wiadomość</word>
-  <word key="aXenMembers_widget_contact_links_discord" js="0">Kliknij, aby skopiować ID discorda</word>
   <word key="aXenMembers_widget_contact_links_steam" js="0">Steam</word>
   <word key="aXenMembers_widget_contact_links_linkedin" js="0">Linkedin</word>
   <word key="aXenMembers_widget_contact_links_facebook" js="0">Facebook</word>
@@ -103,6 +102,11 @@
   <word key="aXenMembers_header_birthday_icon" js="0">Ikona urodzin</word>
   <word key="aXenMembers_birthday_icon_hovercard" js="0">Pokazać ikonę w hovercard?</word>
   <word key="aXenMembers_birthday_icon_hovercard_desc" js="0">Obok wyświetlanej nazwy pojawi się ikona.</word>
+  <word key="block_aXenWhoWasOnline_desc" js="0">Pokazuje blok z ostatnimi użytkownikami w ciągu x godzin.</word>
+  <word key="block_aXenContact_desc" js="0">Blok kontaktowy</word>
   <word key="aXenMembers_widget_contact_links_discord_message" js="1">ID Discorda został skopiowany do schowka:</word>
+  <word key="aXenMembers_groupLegend_widget_whoWasOnline" js="0">Pokazać w widżecie Kto był online?</word>
+  <word key="block_aXenGroupLegend" js="0">Legenda grup</word>
+  <word key="block_aXenGroupLegend_desc" js="0">Pokazuje blok z grupami</word>
  </app>
 </language>
