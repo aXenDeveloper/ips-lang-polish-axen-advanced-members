@@ -2,7 +2,7 @@
 
 ## 🏷️ Requirements
 
-- [(aXen) Advanced Members 1.1.0](https://invisioncommunity.com/files/file/9892-axen-advanced-members/)
+- [(aXen) Advanced Members 1.1.0](https://forum.invisionize.pl/files/file/831-axen-advanced-members/)
 
 ## 🧰 Install and update
 
